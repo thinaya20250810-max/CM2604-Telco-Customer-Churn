@@ -1,0 +1,4 @@
+Model,Best mean CV F1,Best parameters
+Random Forest,0.6363978120172934,"{'model__max_depth': 10, 'model__min_samples_leaf': 3, 'model__n_estimators': 100}"
+Logistic Regression,0.6306057608686693,"{'model__C': 1.0, 'model__penalty': 'l1', 'model__solver': 'liblinear'}"
+KNN,0.5882175407453042,"{'model__n_neighbors': 15, 'model__p': 1, 'model__weights': 'uniform'}"
